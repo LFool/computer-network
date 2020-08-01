@@ -2,7 +2,7 @@
 
 **OSI 参考模型 和 TCP/IP 的对应关系：**
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 ## 1. TCP/IP 出现的背景及其历史
 
@@ -70,7 +70,7 @@ TCP/IP 的最底层是负责数据传输的硬件。这种硬件就相当于以�
 
 ### 数据包首部
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 每个分层中，都会对所发送的数据附加一个首部，在这个首部中包含了该层的必要信息，如发送的目标地址以及协议相关的信息。
 
@@ -124,11 +124,11 @@ TCP/IP 的最底层是负责数据传输的硬件。这种硬件就相当于以�
   * 同时，在整个包的最后面，加上 FCS
   * 根据上述信息产生的以太网数据将通过物理层传输给接收端
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 ### 经过数据链路的包
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 ### 数据包接收处理
 
