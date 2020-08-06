@@ -13,4 +13,6 @@
   * [1. 网络层概述 & 功能](di-si-zhang-wang-luo-ceng/1.-wang-luo-ceng-gai-shu-gong-neng.md)
   * [2. IP 数据报](di-si-zhang-wang-luo-ceng/2.-ip-shu-ju-bao.md)
   * [3. 网络层相关协议](di-si-zhang-wang-luo-ceng/3.-wang-luo-ceng-xie-yi.md)
+  * [4. IPv6](di-si-zhang-wang-luo-ceng/4.-ipv6.md)
+  * [5. 路由算法 & 路由协议](di-si-zhang-wang-luo-ceng/5.-lu-you-suan-fa-lu-you-xie-yi.md)
 
