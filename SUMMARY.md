@@ -15,4 +15,8 @@
   * [3. 网络层相关协议](di-si-zhang-wang-luo-ceng/3.-wang-luo-ceng-xie-yi.md)
   * [4. IPv6](di-si-zhang-wang-luo-ceng/4.-ipv6.md)
   * [5. 路由算法 & 路由协议](di-si-zhang-wang-luo-ceng/5.-lu-you-suan-fa-lu-you-xie-yi.md)
+  * [6. IP 组播](di-si-zhang-wang-luo-ceng/6.-ip-zu-bo.md)
+  * [7. 移动 IP](di-si-zhang-wang-luo-ceng/7.-yi-dong-ip.md)
+  * [8. 网络层设备：路由器](di-si-zhang-wang-luo-ceng/8.-wang-luo-ceng-she-bei-lu-you-qi.md)
+* [第五章：传输层](di-wu-zhang-chuan-shu-ceng.md)
 
